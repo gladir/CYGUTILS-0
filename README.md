@@ -3,7 +3,7 @@ Clone de CygUtils écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans Corail :
+Voici la liste des différents fichiers proposés dans CYGUTILS-0 :
 
 <table>
 		<tr>
