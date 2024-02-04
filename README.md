@@ -19,6 +19,10 @@ Voici la liste des différents fichiers proposés dans CYGUTILS-0 :
 			<td>Cette commande permet d'afficher une bannière. Cette commande est un équivalent de la commande UNIX.</td>
 		</tr>  
 		<tr>
+			<td><b>D2U.PAS</b>
+			<td>Cette commande permet de convertir les sauts de ligne DOS en saut de ligne UNIX.</td>
+		</tr>	
+		<tr>
 			<td><b>DOS2UNIX.PAS</b></td>
 			<td>Cette commande permet d'effectuer la conversion des caractères de saut de ligne du système d'exploitation DOS en leur équivalent UNIX.</td>
 		</tr>
