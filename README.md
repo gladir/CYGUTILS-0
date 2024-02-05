@@ -38,6 +38,10 @@ Voici la liste des différents fichiers proposés dans CYGUTILS-0 :
 			<td><b>REALPATH.PAS</b></td>
 			<td>Cette commande permet de convertir le paramètre du nom en chemin absolue, avec toutes les références à «.», «..» et les liens symboliques résolus.</td>
 		</tr>	
+<tr>
+			<td><b>UNIX2DOS.PAS</b></td>
+			<td>Cette commande permet de convertir les sauts de ligne UNIX en saut de ligne DOS.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
