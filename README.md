@@ -26,6 +26,10 @@ Voici la liste des différents fichiers proposés dans CYGUTILS-0 :
 			<td><b>DOS2UNIX.PAS</b></td>
 			<td>Cette commande permet d'effectuer la conversion des caractères de saut de ligne du système d'exploitation DOS en leur équivalent UNIX.</td>
 		</tr>
+		<tr>
+			<td><b>DUMP.PAS</b></td>
+			<td>Cette commande permet d'afficher le contenu d'un fichier en format hexadécimal.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
