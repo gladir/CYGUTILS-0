@@ -31,6 +31,10 @@ Voici la liste des différents fichiers proposés dans CYGUTILS-0 :
 			<td>Cette commande permet d'afficher le contenu d'un fichier en format hexadécimal.</td>
 		</tr>	
 		<tr>
+			<td><b>GETCLIP.PAS</b></td>
+			<td>Cette commande permet d'afficher le contenu du presse-papier sur la console.</td>
+		</tr>	
+		<tr>
 			<td><b>REALPATH.PAS</b></td>
 			<td>Cette commande permet de convertir le paramètre du nom en chemin absolue, avec toutes les références à «.», «..» et les liens symboliques résolus.</td>
 		</tr>	
